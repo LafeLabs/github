@@ -15,6 +15,7 @@
         "editor.txt",
         "fileloader.txt",
         "filesaver.txt",
+        "removephp.txt",
         "replicator.txt",
         "setreplicator.txt",
         "text2php.txt"
