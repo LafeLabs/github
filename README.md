@@ -1,4 +1,23 @@
-# README.md
+# Organic Web
+
+### Introduction
+
+The World Wide Web and the Internet have allowed all people to share information with all other people with far greater power than at any previous time in history.  In today's Internet this mostly happens with private information on servers which coordinate all that information centrally via a small group of large companies.  
+
+
+### Use cases
+
+ - shopping center pages
+ - corner market
+ - rideshare
+ - mutual aid coordination
+ - 
+
+### Installation
+
+### Code Structure
+
+
 
 This is a self-replicating README file of a thing, by default a simple web page/app.  This can be a prototype of any kind of simple app: documents, articles, markets, calculators, geometry, design, machine control, links to code...everything you might need to replicate technology.  This is a prototype of self-replicating technology in general.
 
