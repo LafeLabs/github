@@ -2,21 +2,28 @@
 
 ### Introduction
 
-The World Wide Web and the Internet have allowed all people to share information with all other people with far greater power than at any previous time in history.  In today's Internet this mostly happens with private information on servers which coordinate all that information centrally via a small group of large companies.  
-
+Self-replicating web pages.  See below for how to replicate this, edit it, destroy it, and replicate again.  Code spreads from local file system to github public repositories out to web sites and from those back to private machines and back out to github etc.  The system can replicate, evolve, and die organically.  
 
 ### Use cases
 
  - shopping center pages
  - corner market
  - rideshare
- - mutual aid coordination
- - 
+ - mutual aid coordination 
+ - personals ads
+ - local news feeds
+ - dumpster updates for scavengers
+ - self-replicating open source hardware replicators
+ - self-replicating custom calculators for specific technical applications
+ - building general self-replicating HTML applications to do any arbitrary task
+ - personal home pages
+ - local bulletin boards in a community space served over the wifi
+ - self-replicating zines
+
 
 ### Installation
 
 ### Code Structure
-
 
 
 This is a self-replicating README file of a thing, by default a simple web page/app.  This can be a prototype of any kind of simple app: documents, articles, markets, calculators, geometry, design, machine control, links to code...everything you might need to replicate technology.  This is a prototype of self-replicating technology in general.
@@ -34,6 +41,8 @@ The raw global replicator code for this is found here:
 Edit code using editor.php:
 
 [editor.php](editor.php)
+
+Use this [editor](editor.php) to edit [index.html](index.html), and you can read this file using [readme.html](readme.html).  
 
 Replicate Geometron sets with set.html:
 
